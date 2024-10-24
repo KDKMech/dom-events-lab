@@ -71,7 +71,7 @@ function calculate(num1, num2, op) {
         return 0;
     }
 }
-
+///there are a few times where I get NaN as a result of the calculation function, and I am not sure why I am getting that
 
 function clear() {
     display.innerHTML = '';
